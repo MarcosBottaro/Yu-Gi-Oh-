@@ -1,1 +1,1 @@
-#Recriar um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po!
+# Recriar um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po!
